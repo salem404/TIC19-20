@@ -20,33 +20,35 @@ Recopilación de ejercicios en c++ hechos durante la clase de TIC en el curso 20
 10. Comprobación de si una letra es mayúscula o minúscula
 11. Comprobación de si un número está entre 18 y 35
 12. Comprobación de si entre 4 números el cuarto coincide con alguno
-13. dgf
-14. gdf
-15. dgf
-16. gdf
+13. Conversión a número romano
+14. Muestra el mes correspondiente a su número
+15. Aplicación de banco (sañdo, ingreso, retirada)
+16. Operaciones con números (cubo, par o impar)
 
 ## Colección 2
 
-1. asd
-2. fds
-3. gfd
-4. gfd
-5. gfd
-6. dfg
-7. fdg
+Inicio del uso de funciones
+
+1. Multiplicación de dos números
+2. Número a la potencia de otro
+3. Obtención de la parte decimal de un número
+4. Uso de función TIPOD
+5. Obtención del menor número entre 3
+6. Suma de cifras de un número
+7. Signo zodiacal según fecha de nacimiento
 
 ## Colección 3
 
-1. sdaf
-2. sdfa
-3. asdf
+1. Número de la nota -> Nota escrita
+2. Muestra la primera letra de una cadena de texto
+3. Comprueba si un número es primo
 
 ## Colección 4
 
-1. sad
-2. sdaf
-3. asdf
-4. af
+1. Cálculo IMC
+2. Comprobación antigüedad de matrícula
+3. Cálculo de nota de selectividad para entrar al grado
+4. Programa acceso a estudios universitarios
 
 ## Colección 5
 
