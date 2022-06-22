@@ -22,7 +22,7 @@ Recopilación de ejercicios en c++ hechos durante la clase de TIC en el curso 20
 12. Comprobación de si entre 4 números el cuarto coincide con alguno
 13. Conversión a número romano
 14. Muestra el mes correspondiente a su número
-15. Aplicación de banco (sañdo, ingreso, retirada)
+15. Aplicación de banco (saldo, ingreso, retirada)
 16. Operaciones con números (cubo, par o impar)
 
 ## Colección 2
